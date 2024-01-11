@@ -1,7 +1,7 @@
 package com.prudhvi.leetcode.january;
 import com.prudhvi.leetcode.january.Jan_8_RangeSumOfBST.TreeNode;
 
-public class Jan_11_MaximumDifferenceBetweenNodeAndAncestor {
+public class Jan_11_1026_MaximumDifferenceBetweenNodeAndAncestor {
 	/*
 	Time Complexity:
 		- The recursive function `maxAncestorDifference` is called for each node in the binary tree exactly once.
