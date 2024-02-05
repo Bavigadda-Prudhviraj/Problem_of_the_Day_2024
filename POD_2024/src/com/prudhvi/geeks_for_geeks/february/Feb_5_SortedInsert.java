@@ -1,8 +1,8 @@
-package com.prudhvi.leetcode.february;
+package com.prudhvi.geeks_for_geeks.february;
 
 
 
-public class SortedInsert {
+public class Feb_5_SortedInsert {
 
 	
 	/**
