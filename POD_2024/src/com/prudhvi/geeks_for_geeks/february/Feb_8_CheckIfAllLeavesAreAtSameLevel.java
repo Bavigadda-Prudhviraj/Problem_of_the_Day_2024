@@ -1,4 +1,4 @@
-package com.prudhvi.leetcode.february;
+package com.prudhvi.geeks_for_geeks.february;
 
 import java.util.LinkedList;
 import java.util.Queue;
