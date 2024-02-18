@@ -1,7 +1,6 @@
 package com.prudhvi.geeks_for_geeks.february;
 
 public class Feb_18_SumOfLeafNodesInBST {
-	
 	/**
 	 * Computes the sum of leaf nodes in a binary tree.
 	 *
