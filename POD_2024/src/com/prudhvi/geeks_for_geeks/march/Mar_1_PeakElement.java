@@ -26,7 +26,6 @@ public class Mar_1_PeakElement {
 	    // Binary search to find a peak element.
 	    while (low < high) {
 	        int mid = low + (high - low) / 2;
-
 	        // If the current element is less than the next element, search in the right half.
 	        if (arr[mid] < arr[mid + 1]) {
 	            low = mid + 1;
