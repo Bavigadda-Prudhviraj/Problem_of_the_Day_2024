@@ -1,6 +1,6 @@
 package com.prudhvi.leetcode.february;
 
-public class Feb_6_387_FirstUniqueCharacterInString {
+public class Feb_5_387_FirstUniqueCharacterInString {
 
 	public static void main(String[] args) {
 		String s = "loveleetcode";
