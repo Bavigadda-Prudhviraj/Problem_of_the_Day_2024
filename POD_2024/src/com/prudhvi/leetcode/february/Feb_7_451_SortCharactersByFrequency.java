@@ -6,7 +6,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 
-public class Feb_451_SortCharactersByFrequency {
+public class Feb_7_451_SortCharactersByFrequency {
 
 	public static void main(String[] args) {
 		String s = "tree";
